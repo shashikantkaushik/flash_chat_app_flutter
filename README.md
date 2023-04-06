@@ -43,7 +43,7 @@ $>gh repo clone shashikantkaushik/dice-flutter
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
 ```
-$> git@github.com:shashikantkaushik/dice-flutter.git
+$>git@github.com:shashikantkaushik/flash_chat_app_flutter.git
 ```
 
 **Install dependencies**
