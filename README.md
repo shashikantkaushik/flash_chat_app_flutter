@@ -37,7 +37,7 @@ Project demonstrates building a simple chat application using **Flutter** framew
 ***In order to clone the project via HTTPS, run this command:***
 
 ```
-$>gh repo clone shashikantkaushik/dice-flutter
+$>gh repo clone shashikantkaushik/flash_chat_app_flutter
 ```
 
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
